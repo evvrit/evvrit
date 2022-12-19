@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elyse</h1>
 <h3 align="center">A fullstack web developer from Ottawa</h3>
 
-- 🌱 I’m currently learning **SQL, Javascript**
+- 🌱 I’m currently learning **React, Javascript**
 
 - 💬 Ask me about **Mapbox**
 
