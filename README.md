@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **turpin.elyse@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFT6GiZJTc/dHH2fC3JFrKzwdhnVpDQLA/view?utm_content=DAFT6GiZJTc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFT6GiZJTc/dHH2fC3JFrKzwdhnVpDQLA/view?utm_content=DAFT6GiZJTc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 [My CV](https://www.canva.com/design/DAFT6GiZJTc/dHH2fC3JFrKzwdhnVpDQLA/view?utm_content=DAFT6GiZJTc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I memorized Kevin G's rap from Mean Girls**
 
