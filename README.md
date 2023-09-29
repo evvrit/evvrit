@@ -1,13 +1,9 @@
 <h1 align="center">Hi, I'm Elyse</h1>
-<h3 align="center">A fullstack web developer in Montreal</h3>
+<h3 align="center">A frontend web developer at Metrio Nasdaq</h3>
 
-- 🌱 I’m currently learning **React, Javascript**
-
-- 💬 Ask me about **Mapbox**
+- 🌱 I’m currently learning **React, Typescript**
 
 - 📫 How to reach me **turpin.elyse@gmail.com**
-
-- 📄 [My CV](https://www.canva.com/design/DAFT6GiZJTc/dHH2fC3JFrKzwdhnVpDQLA/view?utm_content=DAFT6GiZJTc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I memorized Kevin G's rap from Mean Girls**
 
