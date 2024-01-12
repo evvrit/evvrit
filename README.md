@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/elyse-turpin-1b9793259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elyse-turpin-1b9793259" height="30" width="40" /></a>
 <a href="https://kaggle.com/evvvrites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="evvvrites" height="30" width="40" /></a>
+<a href="https://elyseturpin.com" target="_blank"><img align="center" src="https://github.com/evvrit/evvrit/assets/95182188/8b609121-43eb-43a9-bbee-3810911da19c" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
