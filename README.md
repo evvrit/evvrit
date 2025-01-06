@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elyse</h1>
-<h3 align="center">A frontend web developer at Metrio Nasdaq</h3>
+<h3 align="center">A full-stack developer at Metrio Nasdaq</h3>
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **SQL Alchemy, FastAPI, Python**
 
 - 📫 How to reach me **turpin.elyse@gmail.com**
 
